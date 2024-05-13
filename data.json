@@ -1,0 +1,32 @@
+[
+    {
+        "name": "ali",
+        "family": "moghadam",
+        "age": 12,
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam, eligendi."
+    },
+    {
+        "name": "mohsen",
+        "family": "rezaei",
+        "age": 56,
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam, eligendi."
+    },
+    {
+        "name": "reza",
+        "family": "kabari",
+        "age": 22,
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam, eligendi."
+    },
+    {
+        "name": "hamid",
+        "family": "bagheri",
+        "age": 78,
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam, eligendi."
+    },
+    {
+        "name": "arsham",
+        "family": "khaleghi",
+        "age": 21,
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam, eligendi."
+    }
+]

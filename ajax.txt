@@ -1,0 +1,3 @@
+hello everyone this is a alert message for all:
+1- if you think about ajax XHR request please send me log.
+tomorrow i have  english language exam 
